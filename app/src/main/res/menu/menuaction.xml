@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/zerar"
+        app:showAsAction="never"
+        android:title="Zerar Placar"/>
+    <item
+        android:id="@+id/historico"
+        app:showAsAction="never"
+        android:title="Ranking"/>
+    <item
+        android:id="@+id/player"
+        app:showAsAction="never"
+        android:title="Cadastrar Patos"/>
+
+</menu>

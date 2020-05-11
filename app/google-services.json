@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "835748377387",
+    "firebase_url": "https://meu-primeirobd.firebaseio.com",
+    "project_id": "meu-primeirobd",
+    "storage_bucket": "meu-primeirobd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835748377387:android:f47e35558c71004e91cb6e",
+        "android_client_info": {
+          "package_name": "com.example.marcatruco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835748377387-cshna80e0gpe6kj8kth1vr8ip37sfkil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marcatruco",
+            "certificate_hash": "334437734cb5fc5228bc691745826ab8fbbef215"
+          }
+        },
+        {
+          "client_id": "835748377387-8bocjgh5v7d4svg4o9u92kd2u9mldcc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkCBjZfJp8zKR9Ej7_H8opTW_kfvlUe4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835748377387-8bocjgh5v7d4svg4o9u92kd2u9mldcc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
